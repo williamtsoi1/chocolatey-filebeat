@@ -1,0 +1,17 @@
+obj
+_ReSharper*
+
+*.resharper
+*.cache
+*~
+*.swp
+*.swo
+*.suo
+*.user
+*.bak
+*.orig
+
+*.nupkg
+Thumbs.db
+.DS_Store
+Status API Training Shop Blog About
