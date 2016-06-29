@@ -13,7 +13,7 @@
     </description>
     <projectUrl>https://www.elastic.co/products/beats/filebeat</projectUrl>
     <packageSourceUrl>http://github.com/williamtsoi1/chocolatey-filebeat</packageSourceUrl>
-    <projectSourceUrl>https://github.com/elastic/filebeat</projectSourceUrl>
+    <projectSourceUrl>https://github.com/elastic/beats</projectSourceUrl>
     <docsUrl>https://www.elastic.co/guide/en/beats/filebeat/current/index.html</docsUrl>
     <!--<mailingListUrl></mailingListUrl>
     <bugTrackerUrl></bugTrackerUrl>-->
@@ -26,7 +26,7 @@
       <dependency id="" version="__VERSION__" />
       <dependency id="" />
     </dependencies>-->
-    <releaseNotes></releaseNotes>
+    <releaseNotes>https://www.elastic.co/guide/en/beats/libbeat/current/release-notes-1.2.3.html</releaseNotes>
     <!--<provides></provides>-->
   </metadata>
   <files>
