@@ -21,7 +21,7 @@
     <copyright></copyright>
     <licenseUrl>https://raw.githubusercontent.com/elastic/beats/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/filebeat.png</iconUrl>-->
+    <iconUrl>https://cdn.rawgit.com/williamtsoi1/chocolatey-filebeat/master/icons/filebeat.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="__VERSION__" />
       <dependency id="" />
